@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(soma(10, 20))
+	fmt.Println(soma(10, 12))
 }
 
 func soma(a, b int) int {
